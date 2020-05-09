@@ -4,5 +4,5 @@ This project was an entry for a contest held by UCSD's Halıcıoğlu Data Scienc
 ## Data
 The provided data included historical price and production from 2000-2018, as well as regional temperature, rain, and soil moisture data from 2000-2019.
 
-![Temperature Data](relative/temperature.png?raw=true "Title")
+![Temperature Data](temperature.png?raw=true "Title")
 ## Prediction Method
